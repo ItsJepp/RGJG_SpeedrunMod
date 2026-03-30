@@ -15,7 +15,7 @@ Speedrun the game: https://www.speedrun.com/Atomik_RunGunJumpGun
 3. Run Delta Patcher and select the required files
    - **Original file:** The `Assembly-CSharp.dll` file in the game files (e.g. `C:\Program Files (x86)\Steam\steamapps\common\RunGunJumpGun\rungunjumpgun_Data\Managed\Assembly-CSharp.dll`)
    - **XDelta patch:** The downloaded .xdelta file
-4. Press `Apply path`, then go forth and speedrun!
+4. Press `Apply patch`, then go forth and speedrun!
 
 ## Improvements
 If you have any ideas or improvements for the mod, let me know via an issue.
