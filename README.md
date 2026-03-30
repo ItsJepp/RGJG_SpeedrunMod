@@ -1,7 +1,7 @@
 # RGJG_SpeedrunMod
 An xdelta patch modification for "Atomik: RunGunJumpGun", bringing a more streamlined speedrunning experience.
 
-Speedrun the game: 
+Speedrun the game: https://www.speedrun.com/Atomik_RunGunJumpGun
 
 ## Features
 - `Clear Save Data` changes
